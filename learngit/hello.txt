@@ -5,7 +5,7 @@ git status test.tset
 
 modifyed.
 
-stage...
+stage...  bug
 
 git tracks changes.
 
@@ -16,3 +16,4 @@ create a new branch is quick and simple.
 >>>>>>> feature1
 
 asdfasfd
+
