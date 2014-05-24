@@ -4,3 +4,5 @@ test close commit.
 git status test.tset
 
 modifyed.
+
+stage...
